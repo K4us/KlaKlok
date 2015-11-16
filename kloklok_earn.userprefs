@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\kloklok\Assets\script\Gui.cs">
+    <Files>
+      <File FileName="..\kloklok\Assets\adsStart_script\RealAds.cs" Line="19" Column="12" />
+      <File FileName="..\kloklok\Assets\script\Gui.cs" Line="186" Column="18" />
+      <File FileName="..\kloklok\Assets\script\Klaklok.cs" Line="73" Column="7" />
+      <File FileName="..\kloklok\Assets\adsStart_script\StartAppWrapper.cs" Line="75" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

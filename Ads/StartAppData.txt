@@ -1,0 +1,2 @@
+developerId=Developer-Id
+applicationId=Application-Id
